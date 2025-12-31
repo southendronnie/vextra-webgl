@@ -1,17 +1,20 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.2/staging' branch; Version is '6000.2.12f1 (e89d5df0e333) revision 15244637'; Using compiler version '194234433'; Build Type 'Release'
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ronwe" at "2025-12-31T22:37:06.6766209Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ronwe" at "2025-12-31T23:11:10.5852947Z"
 OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 65442 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-Date: 2025-12-31T22:37:06Z
+Date: 2025-12-31T23:11:10Z
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.2.12f1\Editor\Unity.exe
+-quit
 -batchmode
 -projectPath
 H:\GitHub\Test1
 -logFile
 Builds\build-log.txt
+-stackTraceLogType
+Full
 Successfully changed project path to: H:\GitHub\Test1
 H:/GitHub/Test1
 Exiting without the bug reporter. Application will terminate with return code 1
