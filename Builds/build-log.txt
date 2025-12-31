@@ -1,9 +1,9 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.2/staging' branch; Version is '6000.2.12f1 (e89d5df0e333) revision 15244637'; Using compiler version '194234433'; Build Type 'Release'
 OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 65442 MB
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ronwe" at "2025-12-31T20:49:10.2049447Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ronwe" at "2025-12-31T20:57:02.9954553Z"
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-Date: 2025-12-31T20:49:10Z
+Date: 2025-12-31T20:57:02Z
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.2.12f1\Editor\Unity.exe
@@ -52,18 +52,18 @@ H:/GitHub/Test1
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [29676]  Target information:
+Player connection [13384]  Target information:
 
-Player connection [29676]  * "[IP] 192.168.1.78 [Port] 55504 [Flags] 2 [Guid] 402668444 [EditorId] 402668444 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-PCFPJE3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [13384]  * "[IP] 192.168.1.78 [Port] 55504 [Flags] 2 [Guid] 802799266 [EditorId] 802799266 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-PCFPJE3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [29676]  * "[IP] 10.5.0.2 [Port] 55504 [Flags] 2 [Guid] 402668444 [EditorId] 402668444 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-PCFPJE3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [13384]  * "[IP] 10.5.0.2 [Port] 55504 [Flags] 2 [Guid] 802799266 [EditorId] 802799266 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-PCFPJE3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [29676] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [29676] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [13384] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [13384] Host joined alternative multi-casting on [225.0.0.222:34997]...
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
-[Package Manager] Connected to IPC stream "Upm-17640" after 0.5 seconds.
+[Package Manager] Connected to IPC stream "Upm-36096" after 0.5 seconds.
 Library Redirect Path: Library/
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -74,7 +74,7 @@ Library Redirect Path: Library/
 Active build profile path: `Assets/Settings/Build Profiles/wm1.asset`
 Got setting from build profile YAML, name `m_BuildTarget`, value `20`
 Got setting from build profile YAML, name `m_Subtarget`, value `0`
-Refreshing native plugins compatible for Editor in 1.58 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.2.12f1 (e89d5df0e333)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.12f1/Editor/Data/Resources/UnitySubsystems
@@ -91,7 +91,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.12f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56640
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56096
 Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
 Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
 ImportWorker Server TCP listen port: 0
@@ -103,12 +103,12 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.12f1/
 [Licensing::Module] Licensing is not yet initialized.
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.17.4+4293ba1
-  Session Id:              7a32266259724b65957ad2e03b25726a
+  Session Id:              fe049e7bf7c7467eaf189e44e840cf58
   Correlation Id:          ca72197dc4945d81a12de13fb1a7af4d
-  External correlation Id: 545203868467424261
+  External correlation Id: 2201935452410273928
   Machine Id:              jg25r1YsH87+JFUEc6mpdi6Mefk=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-ronwe" (connect: 0.00s, validation: 0.00s, handshake: 3.35s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ronwe-notifications" at "2025-12-31T20:49:13.5554215Z"
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-ronwe" (connect: 0.00s, validation: 0.00s, handshake: 3.41s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ronwe-notifications" at "2025-12-31T20:57:06.406924Z"
 [Licensing::Module] Error: Access token is unavailable; failed to update
 [Licensing::Client] Successfully resolved entitlement details
 [Licensing::Module] License group:
@@ -118,45 +118,45 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.12f1/
   Expiration: Unlimited
 [Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
 [Licensing::Client] Successfully resolved entitlement details
-[Licensing::Module] Licensing Background thread has ended after 3.36s
-[Licensing::Module] Licensing is initialized (took 1.54s).
+[Licensing::Module] Licensing Background thread has ended after 3.42s
+[Licensing::Module] Licensing is initialized (took 1.47s).
 [Licensing::Client] Successfully resolved entitlement details
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.12f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Registered in 1.551190 seconds.
-- Loaded All Assemblies, in  2.248 seconds
+Registered in 1.483758 seconds.
+- Loaded All Assemblies, in  2.162 seconds
 Native extension for iOS target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.554 seconds
-Domain Reload Profiling: 2787ms
-	BeginReloadAssembly (204ms)
+- Finished resetting the current domain, in  0.544 seconds
+Domain Reload Profiling: 2693ms
+	BeginReloadAssembly (212ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (69ms)
-	RebuildNativeTypeToScriptingClass (22ms)
-	initialDomainReloadingComplete (1650ms)
-	LoadAllAssembliesAndSetupDomain (288ms)
-		LoadAssemblies (191ms)
+	RebuildCommonClasses (64ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (1570ms)
+	LoadAllAssembliesAndSetupDomain (283ms)
+		LoadAssemblies (198ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (281ms)
-			TypeCache.Refresh (279ms)
-				TypeCache.ScanAssembly (257ms)
+		AnalyzeDomain (277ms)
+			TypeCache.Refresh (275ms)
+				TypeCache.ScanAssembly (254ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (554ms)
+	FinalizeReload (545ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (499ms)
+		SetupLoadedEditorAssemblies (490ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (114ms)
+			InitializePlatformSupportModulesInManaged (117ms)
 			SetLoadedEditorAssemblies (8ms)
-			BeforeProcessingInitializeOnLoad (108ms)
-			ProcessInitializeOnLoadAttributes (182ms)
-			ProcessInitializeOnLoadMethodAttributes (86ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (176ms)
+			ProcessInitializeOnLoadMethodAttributes (85ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -246,142 +246,161 @@ Package Manager log level set to [2]
     com.unity.rendering.light-transport@1.0.1 (location: H:\GitHub\Test1\Library\PackageCache\com.unity.rendering.light-transport@2c9279f90d7c)
 [Subsystems] No new subsystems found in resolved package list.
 [Package Manager] Done registering packages in 0.05 seconds
-Duplicate assembly 'System.Runtime.CompilerServices.Unsafe.dll' with different versions detected, using 'Packages/com.unity.collections/Unity.Collections.Tests/System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' and ignoring 'Packages/com.unity.ai.assistant/Plugins/Markdig/Dependencies/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.Refreshing native plugins compatible for Editor in 8.10 ms, found 5 plugins.
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+Duplicate assembly 'System.Runtime.CompilerServices.Unsafe.dll' with different versions detected, using 'Packages/com.unity.collections/Unity.Collections.Tests/System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' and ignoring 'Packages/com.unity.ai.assistant/Plugins/Markdig/Dependencies/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.Refreshing native plugins compatible for Editor in 8.16 ms, found 5 plugins.
 Starting: C:\Program Files\Unity\Hub\Editor\6000.2.12f1\Editor\Data\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/2000b0aEDbg.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
 WorkingDir: H:/GitHub/Test1
 DisplayProgressbar: Compiling Scripts
-ExitCode: 0 Duration: 0s920ms
-[1293/1711  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
-*** Tundra build success (0.87 seconds), 1 items updated, 1711 evaluated
-AssetDatabase: script compilation time: 1.993214s
+ExitCode: 0 Duration: 4s578ms
+[1291/1711  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1703/1711  2s] Csc Library/Bee/artifacts/2000b0aEDbg.dag/Assembly-CSharp.dll (+2 others)
+warning CS8785: Generator 'AttributeBasedFieldGenerator' failed to generate source. It will not contribute to the output and compilation errors may occur as a result. Exception was of type 'IndexOutOfRangeException' with message 'Index was outside the bounds of the array.'
+
+Assets\Robotron\Prefabs\Scripts\BackgroundManager.cs(115,16): warning CS0219: The variable 'loadedSprite' is assigned but its value is never used
+
+Assets\Robotron\Prefabs\Scripts\GameManager.cs(177,14): warning CS0219: The variable 'warpComplete' is assigned but its value is never used
+
+Assets\Robotron\Prefabs\Scripts\FunctionKeyMenu.cs(266,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+
+Assets\Robotron\Prefabs\Scripts\WaveSettingsEditor.cs(131,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+
+Assets\Robotron\Prefabs\Scripts\WilliamsExplosionController.cs(222,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+
+Assets\Robotron\Prefabs\Scripts\WaveSettingsEditor.cs(250,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+
+Assets\Robotron\Prefabs\Scripts\WilliamsExplosionController.cs(342,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+
+Assets\Robotron\Prefabs\Scripts\PlayerLives.cs(892,13): warning CS0219: The variable 'remainingEnemies' is assigned but its value is never used
+
+Assets\Robotron\Prefabs\Scripts\PlayerLives.cs(1141,43): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+
+Assets\Robotron\Prefabs\Scripts\PlayerController.cs(25,17): warning CS0414: The field 'PlayerController.currentRotation' is assigned but its value is never used
+[1705/1711  0s] ILPostProcess Library/Bee/artifacts/2000b0aEDbg.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aEDbg.dag/Assembly-CSharp-Editor.dll, with 110 defines and 363 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1706/1711  0s] ILPostProcess Library/Bee/artifacts/2000b0aEDbg.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/2000b0aEDbg.dag/Assembly-CSharp.dll, with 112 defines and 337 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[1709/1711  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[1710/1711  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+*** Tundra build success (4.53 seconds), 6 items updated, 1711 evaluated
+Assets\Robotron\Prefabs\Scripts\BackgroundManager.cs(115,16): warning CS0219: The variable 'loadedSprite' is assigned but its value is never used
+Assets\Robotron\Prefabs\Scripts\GameManager.cs(177,14): warning CS0219: The variable 'warpComplete' is assigned but its value is never used
+Assets\Robotron\Prefabs\Scripts\FunctionKeyMenu.cs(266,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+Assets\Robotron\Prefabs\Scripts\WaveSettingsEditor.cs(131,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+Assets\Robotron\Prefabs\Scripts\WilliamsExplosionController.cs(222,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+Assets\Robotron\Prefabs\Scripts\WaveSettingsEditor.cs(250,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+Assets\Robotron\Prefabs\Scripts\WilliamsExplosionController.cs(342,9): warning CS0618: 'TMP_Text.enableWordWrapping' is obsolete: 'The enabledWordWrapping property is now obsolete. Please use the textWrappingMode property instead.'
+Assets\Robotron\Prefabs\Scripts\PlayerLives.cs(892,13): warning CS0219: The variable 'remainingEnemies' is assigned but its value is never used
+Assets\Robotron\Prefabs\Scripts\PlayerLives.cs(1141,43): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+Assets\Robotron\Prefabs\Scripts\PlayerController.cs(25,17): warning CS0414: The field 'PlayerController.currentRotation' is assigned but its value is never used
+AssetDatabase: script compilation time: 5.639200s
 Begin MonoManager ReloadAssembly
-Duplicate assembly 'System.Runtime.CompilerServices.Unsafe.dll' with different versions detected, using 'Packages/com.unity.collections/Unity.Collections.Tests/System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' and ignoring 'Packages/com.unity.ai.assistant/Plugins/Markdig/Dependencies/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.- Loaded All Assemblies, in  2.428 seconds
-Refreshing native plugins compatible for Editor in 8.05 ms, found 5 plugins.
+Duplicate assembly 'System.Runtime.CompilerServices.Unsafe.dll' with different versions detected, using 'Packages/com.unity.collections/Unity.Collections.Tests/System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' and ignoring 'Packages/com.unity.ai.assistant/Plugins/Markdig/Dependencies/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.- Loaded All Assemblies, in  2.868 seconds
+Refreshing native plugins compatible for Editor in 8.52 ms, found 5 plugins.
 Native extension for iOS target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 8.23 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 8.30 ms, found 5 plugins.
 Duplicate assembly 'System.Runtime.CompilerServices.Unsafe.dll' with different versions detected, using 'Packages/com.unity.collections/Unity.Collections.Tests/System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' and ignoring 'Packages/com.unity.ai.assistant/Plugins/Markdig/Dependencies/System.Runtime.CompilerServices.Unsafe.dll, AssemblyName=System.Runtime.CompilerServices.Unsafe, Version=4.0.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.Mono: successfully reloaded assembly
-- Finished resetting the current domain, in 12.026 seconds
-Domain Reload Profiling: 14422ms
-	BeginReloadAssembly (419ms)
+- Finished resetting the current domain, in 12.105 seconds
+Domain Reload Profiling: 14939ms
+	BeginReloadAssembly (441ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (43ms)
+		DisableScriptedObjects (44ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (157ms)
-	RebuildCommonClasses (68ms)
+		CreateAndSetChildDomain (167ms)
+	RebuildCommonClasses (64ms)
 	RebuildNativeTypeToScriptingClass (19ms)
 	initialDomainReloadingComplete (69ms)
-	LoadAllAssembliesAndSetupDomain (1819ms)
-		LoadAssemblies (1218ms)
+	LoadAllAssembliesAndSetupDomain (2241ms)
+		LoadAssemblies (1612ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (759ms)
-			TypeCache.Refresh (594ms)
-				TypeCache.ScanAssembly (567ms)
-			BuildScriptInfoCaches (135ms)
-			ResolveRequiredComponents (24ms)
-	FinalizeReload (12027ms)
+		AnalyzeDomain (784ms)
+			TypeCache.Refresh (618ms)
+				TypeCache.ScanAssembly (590ms)
+			BuildScriptInfoCaches (139ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (12105ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (11644ms)
+		SetupLoadedEditorAssemblies (11775ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (65ms)
-			SetLoadedEditorAssemblies (10ms)
-			BeforeProcessingInitializeOnLoad (611ms)
-			ProcessInitializeOnLoadAttributes (10397ms)
-			ProcessInitializeOnLoadMethodAttributes (537ms)
-			AfterProcessingInitializeOnLoad (24ms)
+			InitializePlatformSupportModulesInManaged (64ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (608ms)
+			ProcessInitializeOnLoadAttributes (10538ms)
+			ProcessInitializeOnLoadMethodAttributes (533ms)
+			AfterProcessingInitializeOnLoad (23ms)
 			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (33ms)
-Asset Pipeline Refresh (id=d70bee675998ece4e9f461f587cf81d9): Total: 18.187 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+		AwakeInstancesAfterBackupRestoration (38ms)
+Refreshing native plugins compatible for Editor in 8.26 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.99 ms.
+Asset Pipeline Refresh (id=f18fc28f6ac43f843b69f15118691398): Total: 23.164 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
 	Summary:
 		Imports: total=0 (actual=0, local cache=0, cache server=0)
-		Asset DB Process Time: managed=0 ms, native=13289 ms
-		Asset DB Callback time: managed=48 ms, native=50 ms
-		Scripting: domain reloads=1, domain reload time=2429 ms, compile time=1995 ms, other=373 ms
+		Asset DB Process Time: managed=0 ms, native=13432 ms
+		Asset DB Callback time: managed=755 ms, native=78 ms
+		Scripting: domain reloads=1, domain reload time=2869 ms, compile time=5641 ms, other=386 ms
 		Project Asset Count: scripts=2232, non-scripts=4533
-		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
 		Scan Filter Count: 0
 	InvokeCustomDependenciesCallbacks: 0.002ms
-	InvokePackagesCallback: 55.550ms
-	ApplyChangesToAssetFolders: 1.536ms
-	Scan: 225.954ms
-	OnSourceAssetsModified: 0.004ms
-	CategorizeAssetsWithTransientArtifact: 122.974ms
-	ProcessAssetsWithTransientArtifactChanges: 184.499ms
-	CategorizeAssets: 117.770ms
-	ImportOutOfDateAssets: 12063.998ms (10062.585ms without children)
-		CompileScripts: 1995.270ms
-		ReloadNativeAssets: 0.041ms
-		UnloadImportedAssets: 2.783ms
-		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.853ms
+	InvokePackagesCallback: 64.749ms
+	ApplyChangesToAssetFolders: 1.265ms
+	Scan: 266.679ms
+	OnSourceAssetsModified: 1.220ms
+	CategorizeAssetsWithTransientArtifact: 124.217ms
+	ProcessAssetsWithTransientArtifactChanges: 188.942ms
+	CategorizeAssets: 126.115ms
+	ImportOutOfDateAssets: 12144.032ms (6496.069ms without children)
+		CompileScripts: 5641.138ms
+		ReloadNativeAssets: 0.045ms
+		UnloadImportedAssets: 2.943ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 2.081ms
 		InitializingProgressBar: 0.001ms
-		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
-		OnDemandSchedulerStart: 1.466ms
-	PostProcessAllAssets: 48.748ms
-	GatherAllCurrentPrimaryArtifactRevisions: 0.003ms
-	UnloadStreamsBegin: 3.108ms
-	PersistCurrentRevisions: 0.325ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 1.756ms
+	PostProcessAllAssets: 760.757ms
+	Hotreload: 12.621ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.004ms
+	UnloadStreamsBegin: 4.461ms
+	PersistCurrentRevisions: 0.346ms
 	UnloadStreamsEnd: 0.002ms
-	GenerateScriptTypeHashes: 5.482ms
-	Untracked: 5362.401ms
+	GenerateScriptTypeHashes: 12.894ms
+	Untracked: 9468.310ms
 
 Application.AssetDatabase Initial Refresh End
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
 Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
-Scanning for USB devices : 9.304ms
+Scanning for USB devices : 8.921ms
 Initializing Unity extensions:
 [MODES] ModeService[none].Initialize
 [MODES] ModeService[none].LoadModes
 [MODES] Loading mode Default (0) for mode-current-id-Test1
 Unloading 59 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 9889 unused Assets / (20.4 MB). Loaded Objects now: 10693.
-Memory consumption went from 256.1 MB to 235.7 MB.
-Total: 24.209500 ms (FindLiveObjects: 1.315700 ms CreateObjectMapping: 2.180100 ms MarkObjects: 13.440200 ms  DeleteObjects: 7.269000 ms)
+Unloading 9889 unused Assets / (20.4 MB). Loaded Objects now: 10705.
+Memory consumption went from 262.2 MB to 241.8 MB.
+Total: 25.903000 ms (FindLiveObjects: 1.347400 ms CreateObjectMapping: 2.279400 ms MarkObjects: 15.051600 ms  DeleteObjects: 7.219600 ms)
 
 Batchmode quit successfully invoked - shutting down!
 Curl error 42: Callback aborted
-Start importing ProjectSettings/EditorBuildSettings.asset using Guid(0000000000000000b000000000000000) (LibraryAssetImporter) -> (artifact id: '04d6a0213e781b8f6944def67394f7dd') in 0.0249302 seconds
-Refreshing native plugins compatible for Editor in 8.03 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.96 ms.
-Asset Pipeline Refresh (id=7b38236cb84a2ff4b889046b84d69f9f): Total: 0.698 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
-	Summary:
-		Imports: total=1 (actual=1, local cache=0, cache server=0)
-		Asset DB Process Time: managed=11 ms, native=136 ms
-		Asset DB Callback time: managed=525 ms, native=25 ms
-		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
-		Project Asset Count: scripts=2232, non-scripts=4533
-		Asset File Changes: new=0, changed=0, moved=0, deleted=0
-		Scan Filter Count: 1
-	InvokeCustomDependenciesCallbacks: 0.001ms
-	InvokePackagesCallback: 0.001ms
-	ApplyChangesToAssetFolders: 0.246ms
-	Scan: 33.998ms
-	OnSourceAssetsModified: 0.000ms
-	CategorizeAssetsWithTransientArtifact: 0.010ms
-	ProcessAssetsWithTransientArtifactChanges: 0.110ms
-	CategorizeAssets: 64.317ms
-	ImportOutOfDateAssets: 37.518ms (0.813ms without children)
-		ImportManagerImport: 33.743ms (8.361ms without children)
-			ImportInProcess: 25.349ms
-			UpdateCategorizedAssets: 0.033ms
-		ReloadNativeAssets: 0.042ms
-		UnloadImportedAssets: 0.267ms
-		ReloadImportedAssets: 0.000ms
-		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.790ms
-		InitializingProgressBar: 0.000ms
-		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
-		OnDemandSchedulerStart: 0.861ms
-	PostProcessAllAssets: 541.200ms
-	Hotreload: 9.317ms
-	GatherAllCurrentPrimaryArtifactRevisions: 0.788ms
-	UnloadStreamsBegin: 0.130ms
-	PersistCurrentRevisions: 0.449ms
-	UnloadStreamsEnd: 0.001ms
-	Untracked: 10.389ms
-
+Start importing ProjectSettings/EditorBuildSettings.asset using Guid(0000000000000000b000000000000000) (LibraryAssetImporter) -> (artifact id: '04d6a0213e781b8f6944def67394f7dd') in 0.0168145 seconds
+Refreshing native plugins compatible for Editor in 8.47 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Asset Pipeline Refresh (id=4a612f4d61f2f864caafe3aabfddac13): Total: 0.185 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
 [Physics::Module] Cleanup current backend.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
